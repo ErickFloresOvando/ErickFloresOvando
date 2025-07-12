@@ -3,7 +3,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨🏻‍💻 About Me
 
 - 💼 Currently working on **Automation Testing** using `Java` + `Selenium WebDriver`
 - 📚 Actively learning `Selenium`, `Maven`, and strengthening `Java` skills
@@ -58,7 +58,7 @@
 ### 💬 Let’s Connect!
 
 - 📫 Email: **erick.flores@example.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/erickfloresovando)
+- 💼 [LinkedIn] (https://www.linkedin.com/in/erickfloresovando)
 
 ---
 
