@@ -1,11 +1,72 @@
-## Hi there, I'm Erick! 👋
+<h1 align="center">Hi there 👋, I'm Erick Flores</h1>
+<h3 align="center">💻 QA Tester | Automation in Java + Selenium | Manual & Functional Testing</h3>
 
-- 💻 I’m currently working on Automation testing using Java in Selenium
-- 👨🏻‍💻 I’m currently learning Selenium, Maven, Java 
-- 👯 I’m looking to collaborate on Automation testing and Manual testing
-- 💻 Programming Languajes: Java, Python, C++, Git 
-- 💬 Ask me about: Automation testing, Manual testing, Java, Python, C++, Git 
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 💼 Currently working on **Automation Testing** using `Java` + `Selenium WebDriver`
+- 📚 Actively learning `Selenium`, `Maven`, and strengthening `Java` skills
+- 🤝 Open to collaborate on **Automation Frameworks** and **Manual Testing Projects**
+- 🧪 Passionate about ensuring software quality, from UI to backend
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 🚀 Programming & Automation
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+#### 🔧 QA, Collaboration & Version Control
+<p>
+  <img src="https://img.shields.io/badge/Manual Testing-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation Testing-FF5733?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🎓 Certifications
+
+- 🏅 *Introduction to Automated Testing in Java* - **EPAM Campus**
+- 📘 *Project Management and Fundamentals of Agile Methodology*
+- 🐍 *Python Essentials 1* - **CISCO Networking Academy**
+- 🧠 *Python 101 for Data Science* - **IBM**
+- 🌐 *CCNAv7: Enterprise Networking, Security, and Automation* - **CISCO**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ErickFloresOvando&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFloresOvando&layout=compact&theme=radical" height="160"/>
+</p>
+
+---
+
+### 💬 Let’s Connect!
+
+- 📫 Email: **erick.flores@example.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/erickfloresovando)
+- 🌐 [Personal Portfolio](https://tusitio.com) *(optional)*
+
+---
+
+### 😄 Fun Facts
+
+- 🧠 I love understanding how systems break — then fixing them better!
+- 🐛 Favorite bug: the one that teaches me the most.
+- ⚡ Random fact: I enjoy tech memes almost as much as writing tests 😄
+
+---
+
