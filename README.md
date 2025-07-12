@@ -1,4 +1,4 @@
-Hi there 👋, I'm Erick Flores
+<h1>Hi there 👋, I'm Erick Flores</h1>
 <h3 align="center">💻 QA Tester | Automation in Java + Selenium | Manual & Automation Testing</h3>
 
 ---
