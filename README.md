@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Erick Flores 👋</h1>
-<h3 align="center">💻 QA Tester | Automation in Java + Selenium | <img src="https://img.shields.io/badge/Manual Testing-007ACC?style=for-the-badge"/>  <img src="https://img.shields.io/badge/Automation Testing-FF5733?style=for-the-badge"/>
+<h3 align="center">💻 QA Tester | Automation in Java + Selenium | Manual & Automation Testing</h3>
 
 ---
 
@@ -32,13 +32,18 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-#### 🔧 QA, Collaboration & Version Control
+#### 🔧 Collaboration & Version Control
 <p>
-  <img src="https://img.shields.io/badge/Manual Testing-007ACC?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Automation Testing-FF5733?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+#### 🧰 QA Competencies
+<p>
+  <img src="https://img.shields.io/badge/Manual Testing-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Automation Testing-FF5733?style=for-the-badge"/>
 </p>
 
 ---
