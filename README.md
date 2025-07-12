@@ -58,7 +58,7 @@
 ### 💬 Let’s Connect!
 
 - 📫 Email: **erick.flores@example.com**
-- 💼 [LinkedIn] (https://www.linkedin.com/in/erickfloresovando)
+- 💼 LinkedIn: (https://www.linkedin.com/in/erickfloresovando)
 
 ---
 
