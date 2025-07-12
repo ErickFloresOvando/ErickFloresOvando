@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Erick Flores</h1>
-<h3 align="center">💻 QA Tester | Automation in Java + Selenium | Manual & Functional Testing</h3>
+Hi there 👋, I'm Erick Flores
+<h3 align="center">💻 QA Tester | Automation in Java + Selenium | Manual & Automation Testing</h3>
 
 ---
 
@@ -45,20 +45,12 @@
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErickFloresOvando&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickFloresOvando&layout=compact&theme=radical" height="160"/>
-</p>
-
----
 
 ### 💬 Let’s Connect!
 
 - 📫 Email: **erick.flores@example.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/erickfloresovando)
-- 🌐 [Personal Portfolio](https://tusitio.com) *(optional)*
 
 ---
 
