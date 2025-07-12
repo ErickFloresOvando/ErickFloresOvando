@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Erick Flores 👋</h1>
-<h3 align="center">💻 QA Tester | Automation in Java + Selenium | Manual & Automation Testing</h3>
+<h3 align="center">💻 QA Tester | Automation in Java + Selenium | <img src="https://img.shields.io/badge/Manual Testing-007ACC?style=for-the-badge"/>  <img src="https://img.shields.io/badge/Automation Testing-FF5733?style=for-the-badge"/>
 
 ---
 
@@ -72,6 +72,5 @@
 - 🏋️‍♂️ I love sports and fitness routines
 
 ---
-<img width="468" height="640" alt="image" src="https://github.com/user-attachments/assets/dc574d7c-0c3b-4ac5-85a5-31aa7ae7aad1" />
 
 
