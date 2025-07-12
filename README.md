@@ -66,7 +66,10 @@
 
 - 🧠 I love understanding how systems break — then fixing them better!
 - 🐛 Favorite bug: the one that teaches me the most.
-- ⚡ Random fact: I enjoy tech memes almost as much as writing tests 😄
+- 🏃‍♂️ I like running and staying active
+- 🎮 Big fan of video games (especially competitive ones!)
+- 📚 I enjoy reading and learning new things outside tech
+- 🏋️‍♂️ I love sports and fitness routines
 
 ---
 
