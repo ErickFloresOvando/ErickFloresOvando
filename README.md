@@ -22,6 +22,9 @@
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF7043?style=for-the-badge&logo=testng&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
 </p>
 
 #### 🚀 Programming Languages
@@ -51,7 +54,7 @@
 
 ### 🎓 Certifications
 
-- 🏅 *Introduction to Automated Testing in Java* - **EPAM Campus**
+- 🏅 *Specialization in Automated Testing in Java* - **EPAM Campus**
 - 📘 *Project Management and Fundamentals of Agile Methodology*
 - 🐍 *Python Essentials 1* - **CISCO Networking Academy**
 - 🧠 *Python 101 for Data Science* - **IBM**
